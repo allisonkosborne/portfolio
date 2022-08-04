@@ -1,10 +1,10 @@
-# Sown: A Seed Saver's App
+# Portfolio
 
-An app made for all those seed collectors out there who anxiously await each seasonal harvest!
+I have compiled my resume and relative links such as LinkedIn & Github into one website to showcase my progress thus far.
 
 ## Summary
 
-This was my very first exploration into the world of React. Since I am an avid gardener, I immediately was struck by the idea of a simply way for users to store seed and growth information. This project was a culmination of six months of hard work in the front end portion of our year-long software engineering bootcamp.
+This personal application was used to showcase my current skills with HTML, CSS, & Bootstrap as well as brief descriptions of my past work & what drives me to pursue code.
 
 ## Technologies
 
@@ -14,7 +14,12 @@ This was my very first exploration into the world of React. Since I am an avid g
 
 ## Functionality Includes:
 
--
+- Navigation & Footer
+- Relative Links to social media pages
+- GIFs
+- Project: SOWN & more to follow
+- Tech Stack
+- Brief Description
 
 ## Relevant Links
 
@@ -24,12 +29,15 @@ This was my very first exploration into the world of React. Since I am an avid g
 
 ## Project Screenshots
 
-<img src="/public/sown1photo.png" height="400" >
+<img src="/public/me1.png" height="400" >
+<img src="/public/me2.png" height="400" >
+<img src="/public/me3.png" height="400" >
+<img src="/public/me4.png" height="400" >
 
 ## Future Goal
 
-- I would love to eventually add more features such as weather predictions, soil preferences for the area of the country the user lives in, and a way to communicate the user where the seeds they are running low on are being sold in their area.
+- I would love to eventually add more features such as more projects, more css animations, and various links to other pages describing my other work and certificates.
 
 ## Thank You
 
-I would love to thank Lynn Samuelson, Sydney Noh, and Trevor Guinn for continuously offering their time, support, and wisdom throughout the journey our class has taken through front end development.
+I would love to thank all the students, staff, and graduates of Nashville Software School for helping us get so far!
