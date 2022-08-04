@@ -29,10 +29,10 @@ This personal application was used to showcase my current skills with HTML, CSS,
 
 ## Project Screenshots
 
-<img src="/public/me1.png" height="400" >
-<img src="/public/me2.png" height="400" >
-<img src="/public/me3.png" height="400" >
-<img src="/public/me4.png" height="400" >
+<img src="./Assets/me1.png" height="400" >
+<img src="./Assets/me2.png" height="400" >
+<img src="./Assets/me3.png" height="400" >
+<img src="./Assets/me4.png" height="400" >
 
 ## Future Goal
 
