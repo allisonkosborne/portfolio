@@ -1,0 +1,144 @@
+h1 {
+  font-family: "Bubbler One", sans-serif;
+  text-align: center;
+  font-size: 30px;
+}
+
+h2 {
+  font-family: "Sanchez", serif;
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+  padding: 2rem;
+}
+
+.intro-container,
+.projects-container,
+.about-container {
+  /* border: 3px solid rgb(111, 170, 111); */
+  padding: 3rem;
+  margin-bottom: 5rem;
+}
+
+.bug-image {
+  width: 18rem;
+  padding-bottom: 5%;
+  padding-top: 5%;
+}
+
+.left-container {
+  /* border: 1px solid goldenrod; */
+}
+
+.right-container {
+  /* border: 1px solid brown; */
+}
+
+.tech-top-container {
+  /* border: 3px solid fuchsia; */
+}
+
+.tech-bottom-container {
+  /* border: 3px solid blueviolet; */
+}
+
+.tech-bottom-2-container {
+  /* border: 3px solid blueviolet; */
+}
+
+.tech-bottom-3-container {
+  /* border: 3px solid blue; */
+}
+
+.tech-title {
+  text-align: center;
+  padding-top: 2rem;
+  padding-bottom: 5rem;
+}
+
+.projects-title {
+  text-align: center;
+  padding: 3rem;
+}
+
+.intro-title {
+  text-align: center;
+}
+
+.about-title {
+  text-align: center;
+}
+
+.logo {
+  padding: 10rem;
+}
+
+.individual-projects-top {
+  /* border: 1px solid orange; */
+}
+
+.card-container {
+  /* background-color: pink; */
+  padding: 1rem;
+}
+
+#paragraph {
+  font-family: "Scope One", serif;
+  text-align: center;
+  padding: 5%;
+}
+
+.card-title {
+  font-family: "Bubbler One", sans-serif;
+}
+
+.card-text {
+  font-family: "Scope One", serif;
+}
+
+.container-fluid {
+  font-family: "Bubbler One", sans-serif;
+  font-size: 1.7rem;
+}
+
+.about-title {
+  padding-top: 7rem;
+}
+
+.looking-up {
+  width: 25rem;
+  padding-bottom: 5%;
+  /* padding-top: 5%; */
+  height: 40rem;
+}
+
+.sown {
+  width: 32rem;
+  height: 28rem;
+  /* padding-bottom: 5%; */
+  /* padding-top: 5%; */
+}
+
+.tattoos {
+  width: 25rem;
+  padding-bottom: 5%;
+  padding-top: 5%;
+}
+
+.contact-me-button {
+  text-align: center;
+}
+
+.my-name {
+  /* padding: 8%; */
+}
+
+.project-button {
+  text-align: center;
+}
+
+.resume-button {
+  text-align: center;
+}
